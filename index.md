@@ -2,7 +2,7 @@ hi :-)
 *hello*
 **hi!!!!**
 # goodmorning
-# #goodnight
+# goodnight
 [Link](https://www.akpsiucsd.com/about)
 * blue
 * purple
