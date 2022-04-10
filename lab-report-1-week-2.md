@@ -34,7 +34,9 @@ cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/
 cat /home/linux/ieng6/cs15lsp22/public/hello.txt
 
 This is the result of some of these commands!
+
 <img width="446" alt="Screen Shot 2022-04-10 at 12 02 15 AM" src="https://user-images.githubusercontent.com/98578642/162606494-d8d51d4e-aa3d-49e6-8d59-b147351cff2d.png">
+
 *very cool*
 
 ## Moving Files with scp
