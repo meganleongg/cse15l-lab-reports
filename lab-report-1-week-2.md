@@ -13,7 +13,7 @@ Open a terminal in VS Code and then use the ssh command followed by your usernam
 
 Example:
 
-$ ssh cs15lsp22zz@ieng6.ucsd.edu
+`$ ssh cs15lsp22zz@ieng6.ucsd.edu`
 
 Say yes to connect to the server for the first time!
 
@@ -28,10 +28,13 @@ Play around and run some commands such as cd, ls, pwd, mkdir, & cp!
 
 These are a few you can try:
 
-cd
+`cd
+
 ls -lat
+
 cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/
-cat /home/linux/ieng6/cs15lsp22/public/hello.txt
+
+cat /home/linux/ieng6/cs15lsp22/public/hello.txt`
 
 This is the result of some of these commands!
 
@@ -45,7 +48,7 @@ First step is getting a file :D and then run javac and java on it!
 
 After that, run this command:
 
-scp file.java cs15lsp22zz@ieng6.ucsd.edu:~/
+`scp file.java cs15lsp22zz@ieng6.ucsd.edu:~/`
 
 *(replacing file.java with your file and cs15lsp22zz@ieng6.ucsd.edu with your own username)*
 
@@ -60,7 +63,7 @@ It should look like this:
 First off, let's create the private key (id_rsa) and public key (id_rsa.pub) and store it in the .ssh directory on your device.
 
 Enter this command:
-$ ssh-keygen
+`$ ssh-keygen`
 
 Then enter this:
 
@@ -71,7 +74,7 @@ Enter file in which to save the key
 After that, **DON'T** add a passphrase!
   
 To copy the public key to the ssh directory on the server, go on server and use these commands:
-  
+ 
 $ ssh cs15lsp22zz@ieng6.ucsd.edu
 $ mkdir .ssh
 
