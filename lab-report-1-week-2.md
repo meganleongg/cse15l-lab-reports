@@ -28,13 +28,13 @@ Play around and run some commands such as cd, ls, pwd, mkdir, & cp!
 
 These are a few you can try:
 
-`cd
+`cd`
 
-ls -lat
+`ls -lat`
 
-cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/
+`cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/`
 
-cat /home/linux/ieng6/cs15lsp22/public/hello.txt`
+`cat /home/linux/ieng6/cs15lsp22/public/hello.txt`
 
 This is the result of some of these commands!
 
@@ -75,13 +75,14 @@ After that, **DON'T** add a passphrase!
   
 To copy the public key to the ssh directory on the server, go on server and use these commands:
  
-$ ssh cs15lsp22zz@ieng6.ucsd.edu
-$ mkdir .ssh
+`$ ssh cs15lsp22zz@ieng6.ucsd.edu`
+  
+`$ mkdir .ssh`
 
 Then log out :)
 
 On the client, use this command:
-$ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
+`$ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys`
   
 Then you can log in with no password each time!!! *YAY* See look-
   
