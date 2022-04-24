@@ -1,17 +1,5 @@
-hi :-)
-*hello*
-**hi!!!!**
-# goodmorning
-# goodnight
-[Link](https://www.akpsiucsd.com/about)
-* blue
-* purple
-* green
-1. one
-2. two
-3. three
+# CSE 15L Lab Reports
 
-*hihi*
-**:D**
+[Lab Report 1 Week 2](https://meganleongg.github.io/cse15l-lab-reports/lab-report-1-week-2)
 
-![Image](image.png)
+[Lab Report 2 Week 4](https://meganleongg.github.io/cse15l-lab-reports/lab-report-2-week-4)
