@@ -25,3 +25,15 @@ The initial code had a bug and was causing an index out of range error because i
 
 The test file is empty, as in there are no links. Thus, the pahrentheses and brackets are never found because they are not in the test file. This causes the indexes of the open and close pahrentheses and brackets to be -1, which then causes an index out of bounds error when trying to return the substring at index -1. 
 
+
+## Code Change #3
+
+<img width="959" alt="Screen Shot 2022-04-24 at 3 11 21 AM" src="https://user-images.githubusercontent.com/98578642/164971529-497a023e-124b-496e-b0d9-56b428c2906d.png">
+
+[Test file that prompted me to make change #3](https://github.com/jonathanzhangli/markdown-parser-cse-15l/blob/main/test-file-3.md?plain=1)
+
+<img width="621" alt="Screen Shot 2022-04-24 at 3 24 42 AM" src="https://user-images.githubusercontent.com/98578642/164971994-e70e11e9-89ce-45e6-8004-eecb5c1d31b8.png">
+
+*the output of running the file at the command line for the version where it was failing*
+
+The initial code had a bug, where it would interpret images as links and print out the image file name as a link in the output. The test file's first "link" is actually an image, which was still printed normally as a link. To fix this bug, we changed the code to detect if the link is an image by checking for "!", and if so then it does not return it. 
