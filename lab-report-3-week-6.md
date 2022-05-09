@@ -21,10 +21,12 @@ my public key on Github
 <img width="723" alt="Screen Shot 2022-05-09 at 1 22 48 AM" src="https://user-images.githubusercontent.com/98578642/167369792-6b592771-2383-4473-92cf-6bad936618f4.png">
 *I don't know how to get my private key*
 
+
 Running git commands to commit a change
 
 <img width="661" alt="Screen Shot 2022-05-09 at 2 01 57 AM" src="https://user-images.githubusercontent.com/98578642/167376909-976b699f-1424-4dbf-9205-1a86fe7aff33.png">
 <img width="568" alt="Screen Shot 2022-05-09 at 12 42 36 PM" src="https://user-images.githubusercontent.com/98578642/167485642-e7982b55-1bbd-40cd-96c3-46661765dd36.png">
+
 *I'm not sure why pushing my commit isn't working :(*
 
 ## Copy whole directories with scp -r
