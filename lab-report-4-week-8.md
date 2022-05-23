@@ -8,6 +8,8 @@
 
 <img width="697" alt="Screen Shot 2022-05-22 at 9 35 29 PM" src="https://user-images.githubusercontent.com/98578642/169744076-b6731468-4b15-425c-9ed8-02ec7ce6adbb.png">
 
+--
+
 Expected Output: 
 
 \`google.com
@@ -17,6 +19,8 @@ Expected Output:
 **Snippet 2:**
 
 <img width="698" alt="Screen Shot 2022-05-22 at 9 37 37 PM" src="https://user-images.githubusercontent.com/98578642/169744341-e4f89cef-ac54-4b61-ac7a-86dc5393f5d5.png">
+
+--
 
 Expected Output: 
 
@@ -31,6 +35,8 @@ example.com
 **Snippet 3:**
 
 <img width="690" alt="Screen Shot 2022-05-22 at 9 40 43 PM" src="https://user-images.githubusercontent.com/98578642/169744667-4129a46b-6ce5-4094-8a9d-b57c5a2a29d8.png">
+
+--
 
 Expected Output:
 https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule 
